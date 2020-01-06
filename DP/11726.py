@@ -14,4 +14,4 @@ for i in range(1, n+1):
 		n_1 = n_2
 		n_2 = answer
 
-print(answer)
+print(answer % 10007)
